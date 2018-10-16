@@ -1,6 +1,3 @@
-/**
- *  www.yupaopao.cn 2014-2017©All Rights Reserved
- */
 package com.common.page;
 
 import java.util.List;
@@ -10,7 +7,7 @@ import java.util.List;
  * 分页结果
  * </p>
  *
- * @author xiaoyu.wang
+ * @author zhoufan
  * @date 2017年7月27日 下午3:27:28
  * @version
  */
