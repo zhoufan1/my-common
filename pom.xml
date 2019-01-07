@@ -27,7 +27,7 @@
         <lombok.version>1.16.16</lombok.version>
         <mybatis.version>3.4.4</mybatis.version>
         <jackson.mapper.version>1.9.13</jackson.mapper.version>
-        <jackson.version>2.9.0</jackson.version>
+        <jackson.version>2.9.8</jackson.version>
     </properties>
 
 
